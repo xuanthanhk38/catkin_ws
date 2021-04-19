@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>   
+
+  <!-- Start the node --> 
+  <node name="shutdown_node" pkg="shutdown_node" type="my_node_name"  output="screen"/>
+	
+
+</launch>
